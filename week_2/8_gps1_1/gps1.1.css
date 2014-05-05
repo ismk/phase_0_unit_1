@@ -1,1 +1,39 @@
 /* include your css here */
+* {
+    margin: 0;
+    padding: 0;
+}
+#main_content {
+    font - family: 'Roboto',Arial,sans-serif;
+    width: 400px;
+    margin: 0 auto;
+    margin-left: 200px;
+    float: left;
+}
+img {
+    padding: 5px;
+    float: left;
+    width: 25%;
+    height: 25%;
+}
+nav {
+    position: fixed;
+    background: grey;
+    float: left;
+    width: 120px;
+    margin-right: 20px;
+}
+article {
+    padding: 20px;
+    margin-bottom: 20px;
+    background: rgba(0, 0, 0, 0.1);
+}
+.footer p {
+    clear: both;
+    text-align: center;
+    font-style: italic;
+}
+ul li a: hover {
+    background: rgba(255, 0, 0, 0.1);
+    color: black;
+}
