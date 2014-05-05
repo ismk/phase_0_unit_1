@@ -2,7 +2,7 @@
 
 * Describe the Document Object Model? What about it makes sense to you? What doesn't? What seems good and bad about it?
 
-	* The DOM represents the computed and finished hopefully in the future  
+	* The DOM represents the computed and finished document ready for the web, DOM basically converts the HTML and CSS 		  to identifiable objects that can be manipulated by JS. Through Document Object Model we can navigate the		  structure of the HTML and add, modify, or delete elements and content.
 	
 ---		
 * How did using Chrome Web Tools to look at your site and a wordpress.com site compare?
