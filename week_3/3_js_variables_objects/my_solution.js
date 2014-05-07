@@ -13,7 +13,14 @@
 // __________________________________________
 // Write your code below.
 
-
+var secretNumber = 0;
+secretNumber = 7;
+var password = "";
+password = "just open the door";
+var allowedIn = false;
+var members = [];
+members[0] = "John";
+members[3] = "Mary";
 
 
 
