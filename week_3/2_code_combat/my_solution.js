@@ -5,7 +5,13 @@
 // command + / This will comment the line. 
 
 //Grab the Mushroom Complete
-
+//Pseudocode...
+// move up 
+// move right
+// move left
+// move up
+// attack
+//Actual code:
 this.moveUp();
 this.moveRight();
 this.moveLeft();
@@ -13,6 +19,14 @@ this.moveUp();
 this.attackNearbyEnemy();
 
 //Drink Me Complete
+//Pseudocode...
+// attack
+// move right
+// move down
+// move up
+// move right
+// attack
+//Actual code:
 
 this.attackNearbyEnemy();
 this.moveRight();
@@ -22,6 +36,26 @@ this.moveRight();
 this.attackNearbyEnemy();
 
 //Taunt the Guards Complete
+// move right
+// bust door
+// move right
+// say something
+// move left
+// move left
+// say something
+// move right
+// say something
+// move right
+// move right
+// move up
+// move right
+// say something
+// move down
+// move right
+// move up
+// move right
+
+//Actual code:
 this.moveRight();
 this.bustDownDoor();
 
@@ -118,6 +152,16 @@ this.moveXY(75,63);
 
 
 //Mobile Artillery Complete
+//Pseudocode...
+// move to x-axis and y-axis
+// attack at enemy location
+// move to other x-axis and y-axis
+// attack at enemy location
+// attack at enemy location
+// attack at enemy location
+// attack at enemy location
+
+//Actual code:
 this.moveXY(30, 26);  // Move into range
 this.attackXY(46, 5);  // Shoot once in the middle of the ogres
 
@@ -136,3 +180,5 @@ this.attackXY(46,52);
  
 // Reflection:
 // Write your reflection here.
+
+
