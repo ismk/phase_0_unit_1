@@ -175,8 +175,12 @@ this.attackXY(49,63);
 this.attackXY(46,52);
  
  
- 
- 
+//Answer to questions: 
+// Q. What is "this" referring to? Think programming-wise rather than in the terms of the game.
+// A. "this" refers to the current
+
+// What does the () do in JavaScript?
+// What is the point of the semicolons? 
  
 // Reflection:
 // Write your reflection here.
