@@ -1,4 +1,4 @@
-// I paired [by myself, with:] on this challenge.
+// I paired [by myself] on this challenge.
 
 
 
@@ -30,6 +30,10 @@ members[3] = "Mary";
 // Refactored Code: Include a refactored version (or justification of your original code) here. 
 
 
+var secretNumber = 7;
+var password = "just open the door";
+var allowedIn = false;
+var members = ["John",,,"Mary"];
 
 
 
