@@ -4,10 +4,15 @@
 
 
 // Pseudocode
-// 
-// 
-// 
-// 
+// declare secretNumber
+// change value of secretNumber to 7
+// declare password
+// change value of password to "just open the door"
+// declare allowedIn
+// change boolean of allowedIn to false
+// declare a Array called members
+// add "John" to the first position
+// add "Mary" to the fourth position 
 
 
 // __________________________________________
@@ -17,6 +22,7 @@ var secretNumber = 0;
 secretNumber = 7;
 var password = "";
 password = "just open the door";
+var allowedIn = true;
 var allowedIn = false;
 var members = [];
 members[0] = "John";
@@ -39,8 +45,7 @@ var members = ["John",,,"Mary"];
 
 // __________________________________________
 // Reflection: Use the reflection guidelines to write a reflection here. 
-// 
-// 
+// Having some knowledge how javascript works and its syntax, this was a pretty simple exercise to finish.
 // 
 // 
 // 
