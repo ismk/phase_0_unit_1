@@ -177,12 +177,19 @@ this.attackXY(46,52);
  
 //Answer to questions: 
 // Q. What is "this" referring to? Think programming-wise rather than in the terms of the game.
-// A. "this" refers to the current
+// A. "this" refers to the current context of the function of that parent object, whether it being a function or an object
 
 // What does the () do in JavaScript?
+// A. The parenthesis invokes the operation(s) in that particular function. Basically runs the code in that particular function by using ().
+
 // What is the point of the semicolons? 
- 
+// A. The semicolon marks the end of that statement, whether it be declaring a variable, object or function, or some other operation. 
+
+
 // Reflection:
-// Write your reflection here.
 
+//I am sorry but I didn’t get much out of the code combat beginner campaign, I think they were a exercise in futility, it made no attempt to make the user understand the commands they were using, there was no javascript as such involved, if one replaced the functions called using another language it would make no difference, the whole point of the exercise was to introduce a beginner to javascript and at no point in the exercise I saw it do that.
+//The simple commands didn’t explain properly *how* the function was being processed, a layman could play the starting missions without learning anything about javascript.
+//I would’ve preferred to alt east start with the CodeAcademy track on JavaScript rather than spend my time doing Code combat.
 
+//Also the code itself was so simple that writing pseudocode for it made no sense.
