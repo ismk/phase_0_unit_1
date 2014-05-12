@@ -41,7 +41,7 @@ merge command merges the branch to the current branch(or the master).
 #### pull
 <!-- Your defnition here -->
 
-pull command will downlaod and update the current branch from the remote repo.
+pull command will download and update the current branch from the remote repo. its like running git fetch and git merge
 
 #### push
 <!-- Your defnition here -->
@@ -65,7 +65,24 @@ status command shows the current status of the repo you are in (showing if any f
 ## Release 4: Git Workflow
 
 - Push files to a remote repository
+
+git add. (add all files to the staging area).
+git commit -m "A Message"
+git push origin master
+
 - Fetch changes
+
+git fetch <repo name> 
+
 - Commit locally
 
+git init
+git add.
+git commit -m "message"
+
+
 ## Release 5: Reflection
+I am learning to be competent with git but i would still 
+like to spend more time with pulling and fetching data from 
+different remote hosts and try commands out like diff to compare 
+the choose the particular branch.
