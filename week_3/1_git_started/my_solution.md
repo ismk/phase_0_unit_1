@@ -72,7 +72,9 @@ git push origin master
 
 - Fetch changes
 
-git fetch <repo name> 
+git remote -v //to list remote repos
+git rmeote add upstream <reponame>
+git fetch upstream
 
 - Commit locally
 
