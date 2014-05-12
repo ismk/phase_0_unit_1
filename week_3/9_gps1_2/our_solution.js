@@ -83,3 +83,8 @@ console.log(salary(harrison));
 
 
 //  Your Reflection:
+// Oh this GPS was awesome, Lorena really knows her stuff, Marek and I quickly got the core 
+//of the exercise over with and then moved into higher concepts of JavaScript like prototypes 
+//and how we can use that manipulate functions.
+//I really wished to delve deeper into understanding why the community prefers to use the 
+//prototype way than just using the dot notation to add more functionality to the assigned functions.
