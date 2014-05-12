@@ -61,13 +61,22 @@ adam.children = terah.children;
 
 // __________________________________________
 // Reflection: Use the reflection guidelines
-// 
-// 
-// 
-// 
-// 
-// 
+// This was an interesting exercise to do, making an object within an object, 
+// and again code academy helped me the most getting out the most from objects in js.
+// I researched some other ways i could finish the exercise by using different ways, 
+// this led me to learn different ways to create objects in javascript
 
+// function person(name,age){
+//         this.name = name
+//         this.age= age;
+// }
+
+// var a = new person(“Ismail”,”Kalimi”);
+
+// person = {
+//     name: “Ismail”,
+//     label:”Kalimi”
+// };
 
 // __________________________________________
 // Driver Code:  Do not alter code below this line.
